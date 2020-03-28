@@ -4,7 +4,7 @@
  
 ## Game
 
- The first idea of this is a 2D game, similar to The Binding of Isaac ('https://store.steampowered.com/app/113200/The_Binding_of_Isaac/').
+ The first idea of this is a 2D game, similar to The Binding of Isaac (https://store.steampowered.com/app/113200/The_Binding_of_Isaac/).
 The place of the game is the school we go to.
 
 ## Environments
