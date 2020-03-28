@@ -9,4 +9,4 @@ The place of the game is the school we go to.
 
 ## Environments
 
-The game is created in Unity. We are rookies and this is our first steps so all tips are welcome. Most objects are created in Aserpite, where we are rookies too. 
+The game is created in Unity using C#. We are rookies and this is our first steps so all tips are welcome. Most objects are created in Aserpite, where we are rookies too. 
