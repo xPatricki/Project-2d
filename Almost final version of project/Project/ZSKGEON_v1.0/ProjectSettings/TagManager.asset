@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Porsche
+  - car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Narrator
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1683148941
+    locked: 0
+  - name: counter, stairs
+    uniqueID: 1873236319
+    locked: 0
+  - name: Doors
+    uniqueID: 2927169781
+    locked: 0
+  - name: Walls
+    uniqueID: 3785928289
+    locked: 0
+  - name: stairs
+    uniqueID: 2461929959
+    locked: 0
+  - name: stairs2
+    uniqueID: 3675191635
+    locked: 0
+  - name: Player
+    uniqueID: 1719485977
+    locked: 0
+  - name: Ornamntion
+    uniqueID: 2207870299
+    locked: 0
+  - name: Narrator
+    uniqueID: 3836065403
+    locked: 0
+  - name: MoreThanPlayer
+    uniqueID: 1925376517
+    locked: 0
